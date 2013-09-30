@@ -22,9 +22,9 @@ int C(int x,int y){
 	return (c);
 }
 int main(){
-	cout<<"ÇóxCy£¬ÇëÊäÈëx£¬y"<<endl;
+	cout<<"æ±‚nCmï¼Œè¯·è¾“å…¥nã€mï¼š"<<endl;
 	int x,y;
 	cin>>x>>y;
-	cout<<"½á¹ûÎª"<<C(x,y)<<endl;
+	cout<<"nCm="<<C(x,y)<<endl;
 	return 0; 
 }
