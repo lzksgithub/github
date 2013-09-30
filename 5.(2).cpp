@@ -14,9 +14,9 @@ float pi(int n){
 	return (pai);
 }
 int main(){
-	cout<<"ÇëÊäÈë¾«¶È"<<endl;
+	cout<<"è¯·è¾“å…¥ç²¾åº¦:"<endl;
 	int n;
 	cin>>n;
-	cout<<"Ô²ÖÜÂÊÎª"<<'\t'<<pi(n)<<endl;
+	cout<<"åœ†å‘¨ç‡ä¸º"<<'\t'<<pi(n)<<endl;
 	return 0;
 }
