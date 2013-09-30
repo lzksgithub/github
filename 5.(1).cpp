@@ -8,9 +8,9 @@ float Change(float f){
 	return (c);
 }
 int main(){
-	cout<<"»ªÊÏÎÂ¶È"<<endl;
+	cout<<"è¯·è¾“å…¥åæ°æ¸©åº¦ï¼š"<<endl;
 	float c;
 	cin>>c;
-	cout<<"µÈÓÚÉãÊÏÎÂ¶È"<<'\t'<<Change(c)<<endl;
+	cout<<"è½¬æ¢ä¸ºæ‘„æ°æ¸©åº¦ä¸ºï¼š"<<Change(c)<<endl;
 	return 0;
 }
